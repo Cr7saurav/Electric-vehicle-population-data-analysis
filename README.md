@@ -16,7 +16,7 @@ This project analyzes Electric Vehicle (EV) data to understand market trends, re
 
 ## 📈 Dashboard
 
-![EV Dashboard](ev_dashboard.png)
+![EV Dashboard](ev_dashboad.png)
 
 ## 🎯 Conclusion
 
